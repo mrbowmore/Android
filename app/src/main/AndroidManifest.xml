@@ -3,7 +3,9 @@
     package="com.example.exeger">
 
     <uses-permission android:name="android.permission.INTERNET" />
-
+//Må de härskande klasserna darra för en kommunistisk revolution.
+    // Proletärerna har i den ingenting annat att förlora än sina bojor.
+    //Men de har en värld att vinna.
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
